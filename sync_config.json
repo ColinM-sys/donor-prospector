@@ -1,0 +1,44 @@
+{
+  "irs990_searches": [
+    {"query": "hospital", "state": "CA", "sector": "E"},
+    {"query": "health", "state": "CA", "sector": "E"},
+    {"query": "cancer", "state": "CA", "sector": "G"},
+    {"query": "research", "state": "CA", "sector": "H"},
+    {"query": "children", "state": "CA", "sector": "P"},
+    {"query": "mental health", "state": "CA", "sector": "F"},
+    {"query": "foundation", "state": "CA", "sector": "T"},
+    {"query": "community", "state": "CA", "sector": "T"},
+    {"query": "education", "state": "CA", "sector": "B"},
+    {"query": "arts", "state": "CA", "sector": "A"},
+    {"query": "science", "state": "CA", "sector": "U"},
+    {"query": "donation", "state": "CA", "sector": ""},
+    {"query": "charity", "state": "CA", "sector": ""},
+    {"query": "nonprofit", "state": "CA", "sector": ""},
+    {"query": "grant", "state": "CA", "sector": ""},
+    {"query": "donor", "state": "CA", "sector": ""},
+    {"query": "philanthropy", "state": "CA", "sector": "T"},
+    {"query": "wellness", "state": "CA", "sector": "E"},
+    {"query": "medical center", "state": "CA", "sector": "E"},
+    {"query": "clinic", "state": "CA", "sector": "E"}
+  ],
+  "cms_searches": [
+    {"company": "Pfizer", "state": "CA"},
+    {"company": "Medtronic", "state": "CA"},
+    {"company": "Johnson", "state": "CA"},
+    {"company": "Amgen", "state": "CA"},
+    {"company": "Gilead", "state": "CA"},
+    {"company": "Abbott", "state": "CA"},
+    {"company": "Roche", "state": "CA"},
+    {"company": "Merck", "state": "CA"},
+    {"company": "AstraZeneca", "state": "CA"},
+    {"company": "Novartis", "state": "CA"}
+  ],
+  "web_urls": [
+    {"url": "https://www.charitynavigator.org/discover-charities/where-to-give/california/", "terms": ["donate", "charity", "health", "grant", "california"]},
+    {"url": "https://calnonprofits.org/programs/", "terms": ["nonprofit", "charity", "health", "donate", "grant", "california"]},
+    {"url": "https://www.guidestar.org/search?q=healthcare&state=CA", "terms": ["healthcare", "hospital", "foundation", "donor", "grant"]},
+    {"url": "https://projects.propublica.org/nonprofits/search?q=health&state%5Bid%5D=CA&ntee%5Bid%5D=3", "terms": ["health", "hospital", "revenue", "assets"]}
+  ],
+  "sync_interval_hours": 12,
+  "auto_sync_on_startup": true
+}
