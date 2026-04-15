@@ -62,3 +62,10 @@ Open http://localhost:7870
 ## Built For
 
 **Hack for Impact @ GTC 2026**
+
+
+---
+
+## Author
+
+Built by **Colin McDonough** — [LinkedIn](https://www.linkedin.com/in/colinmcdonoughmarketing) · [GitHub](https://github.com/ColinM-sys)
